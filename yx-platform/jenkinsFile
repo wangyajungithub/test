@@ -3,7 +3,7 @@ pipeline {
     agent any
 	// 工具 需要现在全局工具里面配置
     tools {
-        maven 'M3'
+        maven 'maven-3.3.9'
     }
 
 
